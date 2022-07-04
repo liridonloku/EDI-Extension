@@ -1,0 +1,6 @@
+{
+  "name": "EDI Extension",
+  "description": "A simple extension for the EDI system of ATK",
+  "version": "1.0",
+  "manifest_version": 3
+}
