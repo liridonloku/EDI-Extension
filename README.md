@@ -20,8 +20,10 @@ To run this extension, follow these steps:
 
 1. Clone this repo
 
-2. Go to `chrome://extensions/` and check the box for Developer mode in the top right.
+2. Go to `chrome://extensions/` and check the box for Developer mode in the top right
 
-3. Click the Load unpacked extension button and select the folder (that you cloned above) for the extension to install it.
+3. Click the Load unpacked extension button and select the folder (that you cloned above) for the extension to install it
 
-4. Disable developer mode.
+4. Disable developer mode
+
+5. Visit the page: [https://edeklarimi.atk-ks.org/](https://edeklarimi.atk-ks.org/)
