@@ -1,6 +1,6 @@
 {
   "name": "EDI Extension",
-  "description": "A simple extension for the EDI system of ATK",
+  "description": "An extension that puts the focus on the first input on page load for the EDI system of ATK - Administrata Tatimore e Kosoves",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
