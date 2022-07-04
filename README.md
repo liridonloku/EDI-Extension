@@ -6,7 +6,7 @@ A chrome/brave extension for the EDI system of ATK (Administrata Tatimore e Koso
 
 For anyone that makes extensive use of the page (i.e Accountants and Tax Consultants) it's annoying having to click on the user input field each time they try to log in. Especially if they have multiple clients, which means logging in and out multiple times per day.
 
-This extension automates this by focusing the appropriate input element on page load.
+This extension automates this by focusing the appropriate input element on page load, making keyboard navigation much easier and removing the need to use the mouse.
 
 <br>
 
