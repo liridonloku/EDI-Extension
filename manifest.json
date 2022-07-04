@@ -3,6 +3,12 @@
   "description": "A simple extension for the EDI system of ATK",
   "version": "1.0",
   "manifest_version": 3,
+  "icons": {
+    "16": "./assets/images/16.png",
+    "32": "./assets/images/32.png",
+    "48": "./assets/images/favicon.ico",
+    "128": "./assets/images/192.png"
+  },
   "content_scripts": [
     {
       "matches": ["https://edeklarimi.atk-ks.org/Account/Login*"],
