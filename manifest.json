@@ -2,5 +2,11 @@
   "name": "EDI Extension",
   "description": "A simple extension for the EDI system of ATK",
   "version": "1.0",
-  "manifest_version": 3
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://edeklarimi.atk-ks.org/Account/Login*"],
+      "js": ["focus.js"]
+    }
+  ]
 }
