@@ -2,13 +2,16 @@
 
 ## Description
 
-A chrome/brave extension for the EDI system of ATK (Administrata Tatimore e Kosoves).
+A chrome/brave extension for the EDI system of TAK (Tax Administration of Kosovo).
 
 For anyone that makes extensive use of the page (i.e Accountants and Tax Consultants) it's annoying having to click on the user input field each time they try to log in. Especially if they have multiple clients, which means logging in and out multiple times per day.
 
 This extension automates this by focusing the appropriate input element on page load, making keyboard navigation much easier and removing the need to use the mouse.
 
 <br>
+
+### Why not just use Tampermonkey?
+Because I wanted to try making an extension of my own. And it's probably way lighter too (the actual script file is a single line of code xD)
 
 <hr>
 
