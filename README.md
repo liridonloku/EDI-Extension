@@ -10,13 +10,6 @@ This extension automates this by focusing the appropriate input element on page 
 
 <br>
 
-### Why not just use Tampermonkey?
-Because I wanted to try making an extension of my own. And it's probably way lighter too (the actual script file is a single line of code xD)
-
-<hr>
-
-<br>
-
 ## How to
 
 To run this extension, follow these steps:
